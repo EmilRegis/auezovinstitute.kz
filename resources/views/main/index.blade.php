@@ -21,7 +21,6 @@
                     $quotes[] = trans('main.title12');
                     $quotes[] = trans('main.title13');
                     $quotes[] = trans('main.title14');
-                    $quotes[] = trans('main.title15');
                     srand ((double) microtime() * 1000000);
                     $random_number = rand(0,count($quotes)-1);
                     echo

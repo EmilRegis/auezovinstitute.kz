@@ -4,7 +4,7 @@
     <div class="culrure__wrap">
         <div class="news_page__way">
             <a href="{{ URL::to('/') }}">{{ trans('content.main') }}</a>&nbsp;/
-            <a href="{{ URL::to('structure/administration') }}">{{ trans('content.admins') }}</a>&nbsp;/
+            <a href="{{ URL::to('structure/administration') }}">{{ trans('header.leadership') }}</a>&nbsp;/
             {{ $director->title }}
         </div>
         <div>

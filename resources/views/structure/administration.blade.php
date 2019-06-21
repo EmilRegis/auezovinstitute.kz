@@ -5,7 +5,7 @@
 		<div class="structur">
 			<div class="structur__way">
 				<a href="{{ URL::to('/') }}">{{ trans('content.main') }}</a>&nbsp;/&nbsp;
-				<a>{{ trans('content.admins') }}</a>
+				<a>{{ trans('header.leadership') }}</a>
 			</div>
 			<div class="structur__state">
 				<p><i class="fas fa-users"></i>&nbsp;&nbsp;{{ trans('content.structure') }}</p>
