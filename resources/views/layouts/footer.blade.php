@@ -9,7 +9,7 @@
 <footer id="myFooter">
     <div class="container__footer">
         <div class="logo__footer logo__footer-mod">
-            <a href="{{ URL::to('/') }}"><img src="../../images/logo-litart2.png"></a>
+            <a href="{{ URL::to('/') }}"><img src="../../images/{{ trans('header.logo') }}"></a>
         </div>
         <div class="row container__footer__row">
 {{--            <div class="col-sm-3">--}}
