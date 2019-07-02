@@ -14,5 +14,5 @@ return [
     'gold' => 'Алтын қор',
     'museum' => 'Дом музея Ауезова',
     'leadership' => 'Руководство',
-    
+    'logo' => 'logo-litart2ru.png',
 ];

@@ -14,5 +14,6 @@ return [
     'museum' => 'Әуезов мұражай үйі',
     'science' => 'Ғылыми жобалар',
     'leadership' => 'Басшылық',
+    'logo' => 'logo-litart2kk.png',
     
 ];
